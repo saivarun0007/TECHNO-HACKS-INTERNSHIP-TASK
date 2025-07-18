@@ -35,10 +35,10 @@ python calculator.py
 
 ### 📂 Project Structure
 
-|--Exe.folder          # Exe files
-|--calculator.py       # Main Python file with GUI logic
-|--README.md           # Project documentation
-|--License             # Project license
+|--Exe.folder          # Exe files<br>
+|--calculator.py       # Main Python file with GUI logic<br>
+|--README.md           # Project documentation<br>
+|--License             # Project license<br>
 
 ---
 
