@@ -27,7 +27,7 @@ This is a desktop GUI application built with **Python** and **Tkinter** as part 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/indian-weather-app.git
+git clone my repository
 cd indian-weather-app
 ```
 
